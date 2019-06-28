@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Natalie Z. Kerr</title>
+    <link>/research/</link>
+    <description>Recent content in Research on Natalie Z. Kerr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 May 2016 21:48:51 -0700</lastBuildDate>
+    
+	<atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research</title>
+      <link>/research/research/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/research/research/</guid>
+      <description>I&amp;rsquo;m a population ecologist interested in life history evolution and population dynamics of insects. Currently, I am a 5th-year PhD candidate in the Crone Lab at Tufts University. My research involves using population models to evaluate life history strategies and trade-offs in insects. More specifically, I am investigating the adaptive significance of worker size variation in bumble bee (Bombus vosnesenskii) colonies and how this variation contributes toward colony growth. I am also investigating life history trade-offs between the invasive exotic cabbage white butterfly (Pieris rapae) and its non-invasive native counterpart, the mustard white butterfly (Pieris oleracea) as well as the effects of a warming climate on the phenology of the mustard white.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Professional development on Natalie Z. Kerr</title>
+    <link>http://nataliezoekerr.com/profdev/</link>
+    <description>Recent content in Professional development on Natalie Z. Kerr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="http://nataliezoekerr.com/profdev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Outreach &amp; Volunteering</title>
+      <link>http://nataliezoekerr.com/profdev/outreach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nataliezoekerr.com/profdev/outreach/</guid>
+      <description>Public Outreach DSA Ecosocialism working group, May 2018
+I gave a 15-minute presentation on pollinators and actions (from the individual to the international-level) to help save pollinators at the monthly meeting for the Boston DSA Ecosocialism working group at Boston University.
+Native Bee Booth at Tufts Animal Wel&amp;rdquo;Fair&amp;rdquo;, April 2017
+I ran and organized the native bee booth at the Tuft&amp;rsquo;s Animal Wel&amp;rdquo;Fair&amp;rdquo; with Tufts graduate students, Genevieve Pugesek and Nick Dorian.</description>
+    </item>
+    
+    <item>
+      <title>Presentations</title>
+      <link>http://nataliezoekerr.com/profdev/presentations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nataliezoekerr.com/profdev/presentations/</guid>
+      <description>Kerr, Natalie Z. and Crone, Elizabeth E. (2018) Will climate change trigger a developmental trap for a native multivoltine butterfly (Pieris oleracea)? 2018 ESA, ESC and ESBC Joint Annual Meeting, Vancouver, BC. Nov 11-14. (Presentation)
+Kerr, Natalie. Z., Crone, Elizabeth E., and Williams, Neal M. (2017) Size-based tradeoffs among workers in bumblebee (Bombus vosnesenskii) colonies. 2017 Annual Meeting of the Ecological Society of America, Portland, OR. Aug 8-11. (Presentation)</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://nataliezoekerr.com/profdev/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nataliezoekerr.com/profdev/teaching/</guid>
+      <description>Ecological Models and Data (Instructor for recitation), Spring 2019
+I was the recitationinstructor for BIO133 Ecological Models and Data course at Tufts University. I taught students how to use program R and RMardown to run the statistical and ecological models learned in lecture.
+Biostatistics (Instructor for recitation), Fall 2017
+I redesigned and taught the recitation section for the BIO132 Biostatistics course at Tufts University with another graduate student, Eric Scott.</description>
+    </item>
+    
+    <item>
+      <title>Workshops</title>
+      <link>http://nataliezoekerr.com/profdev/workshops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nataliezoekerr.com/profdev/workshops/</guid>
+      <description>Workshop EntSoc (Volunteer)
+I volunteered to help with a R workshop called &amp;ldquo;Exploiting the Dynamism of R Software to Help Entomologists Adapt to a Changing World: Crossing the Border from R Admirer to R User&amp;rdquo; at 2018 EntSoc conference in Vancouver, BC. This workshop was run by Robert Zinna and Keaton Wilson.
+Delta Method and Parametric Bootstrapping, March 2018
+I organized and ran a half-day workshop on the Delta Method (msm::deltamethod) and parametric bootstrapping (MASS::mvrnorm) for calculating variance in model predicted values in program R.</description>
+    </item>
+    
+  </channel>
+</rss>

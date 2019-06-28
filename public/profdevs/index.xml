@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Profdevs on Natalie Z. Kerr</title>
+    <link>/profdevs/</link>
+    <description>Recent content in Profdevs on Natalie Z. Kerr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 May 2016 21:48:51 -0700</lastBuildDate>
+    
+	<atom:link href="/profdevs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Professional development</title>
+      <link>/profdevs/profdev/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/profdevs/profdev/</guid>
+      <description>Teaching Internal link without target blank Output: Internal link without target blank
+
+Workshops 
+Presentations 
+Public Outreach</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/profdevs/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/profdevs/teaching/</guid>
+      <description>Ecological Models and Data (Instructor for recitation), Spring 2019
+I was the recitationinstructor for BIO133 Ecological Models and Data course at Tufts University. I taught students how to use program R and RMardown to run the statistics and ecological models learned in lecture.
+Biostatistics (Instructor for recitation), Fall 2017
+I redesigned and taught the recitation section for the BIO132 Biostatistics course at Tufts University with another graduate student, Eric Scott.</description>
+    </item>
+    
+  </channel>
+</rss>
