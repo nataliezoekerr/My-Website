@@ -1,13 +1,24 @@
-baseurl                 = "https://example.com/"
+baseURL                 = "http://nataliezoekerr.com/"
 DefaultContentLanguage  = "en"
-title                   = "Hugo Future Imperfect Slim"
+title                   = "Natalie Z. Kerr"
 theme                   = "hugo-future-imperfect-slim"
-preserveTaxonomyNames   = true
-paginate                = 3
+enableEmoji             = true
+ignoreFiles             = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames   = false
+paginate                = 5
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = [""]
+
+# Default language to use (if you setup multilingual support)
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+#Rules for generating permanent links.
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
 
 [params]
   # Loads CSS and JavaScript files. The variable is an array so that you can load
@@ -20,8 +31,6 @@ disableLanguages        = [""]
   highlightjs           = true
   highlightjsTheme      = "github"
   highlightjsLang       = ["html", "css", "js", "toml"]
-  # Sets where "View More Posts" links to
-  viewMorePostsLink     = "/blog/"
   # Activate Estimated Reading Times, which appear in the post headers
   readingTime           = true
   # Sets which Social Share links appear in posts.
@@ -46,44 +55,41 @@ disableLanguages        = [""]
 
   [params.header]
     # Sets the navbarTitle that appears in the top left of the navigation bar
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "Natalie Zoe Kerr"
     # Sets navbarTitle to match the section of the website
-    dynamicTitles       = true
+    dynamicTitles       = false
     searchMenu          = true
-    shareMenu           = true
-    languageMenu        = true
+    shareMenu           = false
+    languageMenu        = false
 
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
-    header                = "Hugo Future Imperfect Slim"
-    paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
-    rssIntro              = true
+    header                = "Natalie Zoe Kerr" 
+    subheader             = "BEnvSc, PhD <br/>"
+    paragraph             = "Postdoctoral researcher <br /> Duke University <br />"
+    rssIntro              = false
     socialIntro           = true
-
+    
+    
     # This appears at the top of the sidebar above params.intro.header.
     # A width of less than 100px is recommended from a design perspective.
     [params.intro.pic]
-      src                 = "/img/main/logo.jpg"
+      src                 = "/img/portrait2_circle.png"
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
-      shape               = "circle"
-      width               = ""
+      width               = "250px"
       alt                 = "Hugo Future Imperfect Slim"
-
+  
   [params.sidebar]
-    about               = "test"
-    # Sets the number of recent posts to show in the sidebar. The default value is 5.
-    postAmount          = 5
-    # set to show or to hide categories in the sidebar
-    categories          = true
+      categories          = false
     # Sets Categories to sort by number of posts instead of alphabetical
-    categoriesByCount   = true
-
+    categoriesByCount   = false
+  
   [params.footer]
     # Sets RSS icons to appear on the sidebar with the social media buttons
-    rssFooter           = true
+    rssFooter           = false
     # Sets Social Media icons to appear on the sidebar
-    socialFooter        = true
+    socialFooter        = false
 
   # Disqus will take priority over Staticman (github.com/eduardoboucas/staticman)
   # due to its ease of use. Feel free to check out both and decide which you would
@@ -104,163 +110,58 @@ disableLanguages        = [""]
 [menu]
   # Sets the menu items in the navigation bar
   # Identifier prepends a Font Awesome icon to the menu item
+    
   [[menu.main]]
-    name              = "Home"
-    url               = "/"
-    identifier        = "fas fa-home"
-    weight            = 1
-
-  [[menu.main]]
-    name              = "About"
-    url               = "/about/"
-    identifier        = "far fa-id-card"
+    name              = "Research"
+    url               = "/research/"
     weight            = 2
 
-  [[menu.main]]
-    name              = "Blog"
-    url               = "/blog/"
-    identifier        = "far fa-newspaper"
+   [[menu.main]]
+    name              = "Publications"
+    url               = "/pubs/"
     weight            = 3
-
+  
   [[menu.main]]
-    name              = "Categories"
-    url               = "/categories/"
-    identifier        = "fas fa-sitemap"
-    weight            = 5
-
+    name              = "Professional Development"
+    url               = "/profdev/"
+    weight            = 4
+  
+    [[menu.main]]
+        name = "Teaching"
+        url  = "/profdev/teaching"
+        parent = "Professional Development"
+        
+    [[menu.main]]
+        name = "Workshops"
+        url  = "/profdev/workshops"
+        parent = "Professional Development"
+  
+    [[menu.main]]
+        name = "Presentations"
+        url  = "/profdev/presentations"
+        parent = "Professional Development"  
+        
+    [[menu.main]]
+        name = "Workshops"
+        url  = "/profdev/outreach"
+        parent = "Professional Development"
+        
+  
   [[menu.main]]
     name              = "Contact"
     url               = "/contact/"
     identifier        = "far fa-envelope"
-    weight            = 6
-
-[Languages]
-  # Each language has its own menu.
-  [Languages.en]
-    languageCode        = "en"
-    LanguageName        = "English"
-    weight              = 1
-
-  [Languages.fr]
-    languageCode        = "fr"
-    LanguageName        = "Français"
-    title               = "Hugo Future Imperfect Slim in fr"
-    description         = "Un thème de HTML5 UP, porté par Julio Pescador. Slimmed et amélioré par Patrick Collins. Multilingue par StatnMap. Propulsé par Hugo. "
-    weight              = 2
-
-    [[Languages.fr.menu.main]]
-      name              = "Accueil"
-      url               = "/"
-      identifier        = "fas fa-home"
-      weight            = 1
-
-    [[Languages.fr.menu.main]]
-      name              = "About"
-      url               = "/about/"
-      identifier        = "far fa-id-card"
-      weight            = 2
-
-    [[Languages.fr.menu.main]]
-      name              = "Blog"
-      url               = "/blog/"
-      identifier        = "far fa-newspaper"
-      weight            = 3
-
-    [[Languages.fr.menu.main]]
-      name              = "Catégories"
-      url               = "/categories/"
-      identifier        = "fas fa-sitemap"
-      weight            = 5
-
-    [[Languages.fr.menu.main]]
-      name              = "Contact"
-      url               = "/contact/"
-      identifier        = "far fa-envelope"
-      weight            = 6
-
-  [Languages.pl]
-    languageCode        = "pl"
-    LanguageName        = "Polskie"
-    title               = "Hugo przyszłość niedoskonała"
-    description         = "Motyw HTML5 UP, przeniesiony przez Julio Pescadora i wzbogacony przez Patricka Collinsa. Wielojęzyczny przez StatnMap. Zasilany przez Hugo."
-    weight              = 2
-
-    [[Languages.pl.menu.main]]
-      name              = "Home"
-      url               = "/"
-      identifier        = "fas fa-home"
-      weight            = 1
-
-    [[Languages.pl.menu.main]]
-      name              = "O mnie"
-      url               = "/about/"
-      identifier        = "far fa-id-card"
-      weight            = 2
-
-    [[Languages.pl.menu.main]]
-      name              = "Blog"
-      url               = "/blog/"
-      identifier        = "far fa-newspaper"
-      weight            = 3
-
-    [[Languages.pl.menu.main]]
-      name              = "Kategorie"
-      url               = "/categories/"
-      identifier        = "fas fa-sitemap"
-      weight            = 5
-
-    [[Languages.pl.menu.main]]
-      name              = "Kontakt"
-      url               = "/contact/"
-      identifier        = "far fa-envelope"
-      weight            = 6
+    weight            = 5
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
 # and socialAppearAtBottom.
 [social]
-  # Coding Communities
-  github                = "pacollins/hugo-future-imperfect-slim"
-  gitlab                = ""
-  stackoverflow         = "" # User Number
-  bitbucket             = ""
-  jsfiddle              = ""
-  codepen               = ""
-  # Visual Art Communities
-  deviantart            = ""
-  flickr                = "example"
-  behance               = ""
-  dribbble              = ""
-  # Publishing Communities
-  wordpress             = ""
-  medium                = ""
-  # Professional/Business Oriented Communities
-  linkedin              = "example"
-  linkedin_company      = "examplebusiness"
-  foursquare            = ""
-  xing                  = ""
-  slideshare            = ""
-  # Social Networks
-  facebook              = "example"
-  googleplus            = ""
-  reddit                = "example"
-  quora                 = ""
-  youtube               = ""
-  vimeo                 = ""
-  whatsapp              = "" # WhatsApp Number
-    # WeChat and QQ need testing.
-    wechat              = ""
-    qq                  = "" # User ID Number
-  instagram             = "example"
-  tumblr                = ""
-  twitter               = "example"
-  skype                 = ""
-  snapchat              = ""
-  pinterest             = "example"
-  telegram              = "example"
-  vine                  = ""
-  googlescholar         = ""
-  orcid                 = ""
-  researchgate          = "example"
-  # Email
-  email                 = "example"
+  email                 = "nataliezoekerr@gmail.com"
+  github                = "nataliezoekerr"
+  linkedin              = "natalie-kerr/"
+  researchgate          = "Natalie_Kerr8"
+  googlescholar         = "citations?user=b6exeP0AAAAJ&hl=en"
+  orcid                 = "0000-0003-4227-2031"
+
+
