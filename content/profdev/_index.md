@@ -11,20 +11,20 @@ title: Professional development
 
 ### [Workshops](/profdev/workshops)
 
-<img src="/img/Workshop.jpg" style="width:50%; border:2px solid"><br>
+<a href="/profdev/workshops"><img src="/img/Workshop.jpg" style="width:50%; border:2px solid"><br>
 
 <br> 
 
 ### [Presentations](/profdev/presentations)
 
-<img src="/img/Presentation.jpg" style="width:50%; border:2px solid"><br>
+<a href="/profdev/presentations"><img src="/img/Presentation.jpg" style="width:50%; border:2px solid"><br>
 
 <br>
 
 
 ### [Public Outreach](/profdev/outreach)
 
-<img src="/img/Outreach.jpg" style="width:50%; border:2px solid"><br>
+<a href="/profdev/outreach"><img src="/img/Outreach.jpg" style="width:50%; border:2px solid"><br>
 
 <br>
 
