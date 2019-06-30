@@ -1,0 +1,36 @@
+---
+title: Research
+---
+<br>
+
+I'm a population ecologist that uses empirical and theoretical approaches to explore trade-offs, life history phenomena, and population dynamics of plants, insects, and social organisms. The primary focus of my research has been using novel techniques for data collection (e.g. RFID systems), data analysis (e.g. functional linear models), and model construction (e.g. voltinism models, structured population models) to investigate the effects of global change on insect and plant populations through a natural history lens. My research spans three areas: life history evolution, comparative demography, and global change biology.
+
+
+<img src="/img/BB_1.jpg" style="width:35%; border:2px solid; margin-left: 20px; margin-top: 8px" align="right"> **Life history evolution**  
+
+My primary research seeks to understand how trade-offs may explain life history strategies, particularly when these strategies are seemingly sub-optimal at first glance. As part of my postdoctoral research, I am interested in evaluating how prey availability and fire may influence trade-offs in the Venus flytrap, *Dionaea muscipula*.
+
+As part of my dissertation, I investigated size-based trade-offs among workers of the yellow-faced bumble bee, *Bombus vosnesenskii*. Bumble bee workers vary significantly in body size (up to 10 fold difference in mass), and tasks within colonies are usually allocated based on worker size (referred to as size polyethism). However, the literature often suggests larger workers are better at most tasks. My research evaluated (1) size-number trade-offs in producing workers of various sizes by combining multiple measures of in-colony performance (<span style="color:blue">[Kerr et al. 2019](https://doi.org/10.1111/1365-2435.13251)</span>), (2) the effects of number of workers of different sizes on worker production using functional linear models (Kerr et al., in prep), and (3) the optimal mean and variance in worker size in colonies by building hypothetical monomorphic and polymorphic colonies using integral projection models (Kerr et al., in prep). These projects are shedding more light into why colonies maintain size variation. These projects are collaborations with <span style="color:blue"> [Elizabeth Crone](http://ase.tufts.edu/biology/faculty/crone/)</span> (Tufts), <span style="color:blue"> [Neal Willliams](http://entomology.ucdavis.edu/Faculty/Neal_M_Williams/)</span> (UC Davis), and <span style="color:blue">[Rosemary Malfi](https://rmalfiresearch.weebly.com/about-me.html)</span> (UMass Amherst) funded by NSF.  
+  
+
+
+  
+<img src="/img/MW_2.jpg" style="width:35%; border:2px solid; margin-right: 20px; margin-top: 8px" align="left">**Comparative demography** 
+
+Comparative demography research provides insight into the diversity of life histories and species response to environmental variation that has the potential to inform life history theory and develop general guidelines to managing populations where data and/or resources are limited. 
+  
+During my PhD at Tufts, I delineated the age-based differences between an invasive and native *Pieris* species. These two butterflies coexist within the same habitat types, yet they have two different population histories. The cabbage white butterfly (*Pieris rapae*) is an invasive, exotic species to North America that rapidly spread across North America since its introduction in the mid 19th century. Simultaneously, the mustard white butterfly (*Pieris oleracea*) has declined and become locally extinct in some of its range. I found that the patterns observed for these two species corroborate the slow-fast life history paradigm. However, the exotic species exhibits faster larval development, higher adult survival, and higher fecundity suggesting weakened trade-offs compared to the native species, which challenges fundamental life history theory that organisms should exhibit trade-offs among vital functions (Kerr et al., in review). These findings are significant because these weakened trade-offs have only been reported for a couple of invasive plant populations. 
+
+My honours thesis at the University of Queensland integrated management costs and efficacy with demographic matrix models  to identify cost-effective management strategies of 14 invasive plant populations across five countries (<span style="color:blue">[Kerr et al. 2016](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.12592)</span>). I found that both management cost and demographic elasticity ranks alone aligned well with cost-effectiveness providing general management guidelines when data are limited. 
+
+
+**Global change biology**
+
+Finally, my research tackles ecological questions relating to how species respond to global change. Specifically, how climate change and land use change affects life history strategies and population dynamics of plants and insects. My postdoctoral research in the [Morris lab](https://biology.duke.edu/people/william-f-morris) is evaluating the effects of fire and climate change on metapopulation dynamics of Venus flytrap by building spatially-explicit individual based models. 
+
+As part of my PhD, I evaluated how resource availability (i.e. agricultural landscapes) affects the contributions of workers of different sizes towards worker production in bumblebee colonies, using a novel technique called Functional Linear Models. I found positive effects of more larger workers in colonies under high resource environments. More effects of the number of workers of different sizes was detected under low or fluctuating resource environments suggesting that some advantages of size polymorphism in colonies only become apparent during stressful conditions. This work was in collaboration with <span style="color:blue"> [Elizabeth Crone](http://ase.tufts.edu/biology/faculty/crone/)</span> (Tufts), <span style="color:blue"> [Neal Willliams](http://entomology.ucdavis.edu/Faculty/Neal_M_Williams/)</span> (UC Davis), and <span style="color:blue">[Rosemary Malfi](https://rmalfiresearch.weebly.com/about-me.html)</span> (UMass Amherst).
+
+I also evaluated the demographic consequences of shifting phenology of the mustard white butterfly in response to a warming cliamte. Insects that rely on environmental cues to instigate life history events are particularly vulnerable to a changing climate. The native mustard white relies on photoperiod to cue diapause. I integrated demography into volintism models to evaluate the consequences of shifting phenology. I found that a warming climate has lead to diametrically-opposing demographic consequences for populations across its New England range, where more positive effects are predicted in the south and negative effects in the north (Kerr et al., in prep). This project was in collaboration with <span style="color:blue">[Elizabeth Crone](https://ase.tufts.edu/biology/faculty/crone/)</span>, Francie Chew, <span style="color:blue">[Erik Dopman](https://ase.tufts.edu/biology/faculty/dopman/)</span>, <span style="color:blue">[Tyson Wepprich](https://globalchange.ncsu.edu/secsc/research/tyson-wepprich/)</span>, and <span style="color:blue">[Fritzi Grevstad](https://bpp.oregonstate.edu/people/grevstad-fritzi)</span>. 
+
+
+
