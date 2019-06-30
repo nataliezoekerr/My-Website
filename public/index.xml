@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Natalie Z. Kerr</title>
-    <link>http://nataliezoekerr.com/</link>
+    <link>/</link>
     <description>Recent content in About on Natalie Z. Kerr</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="http://nataliezoekerr.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://nataliezoekerr.com/_indexold/</link>
+      <link>/_indexold/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nataliezoekerr.com/_indexold/</guid>
+      <guid>/_indexold/</guid>
       <description>I&amp;rsquo;m a population ecologist interested in life history evolution and population dynamics of plants, insects, and organisms with complex social structures. Currently, I am a postdoctoral researcher in the Morris lab at Duke University. My research is focused on building spatially-explicit individual-based models to evaluate the effects of fire on meta-population dynamics of Venus flytraps, Dionaea muscipula.
 In 2012, I graduated from the University of Queensland with a bachelor of Environmental Science with first class honours majoring in Natural Resources Science.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://nataliezoekerr.com/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nataliezoekerr.com/about/</guid>
+      <guid>/about/</guid>
       <description>I&amp;rsquo;m a population ecologist interested in life history evolution and population dynamics of plants, insects, and organisms with complex social structures. Currently, I am a postdoctoral researcher in the Morris lab at Duke University. My research is focused on building spatially-explicit individual-based models to evaluate the effects of fire on meta-population dynamics of Venus flytraps, Dionaea muscipula. 
 In 2019, I completed my PhD in the Crone Lab at Tufts University.</description>
     </item>
     
     <item>
       <title>Outreach &amp; Volunteering</title>
-      <link>http://nataliezoekerr.com/profdev/outreach/</link>
+      <link>/profdev/outreach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nataliezoekerr.com/profdev/outreach/</guid>
+      <guid>/profdev/outreach/</guid>
       <description>Public Outreach DSA Ecosocialism working group, May 2018
 I gave a 15-minute presentation on pollinators and actions (from the individual to the international-level) to help save pollinators at the monthly meeting for the Boston DSA Ecosocialism working group at Boston University.
 Native Bee Booth at Tufts Animal Wel&amp;rdquo;Fair&amp;rdquo;, April 2017
@@ -43,39 +43,39 @@ I ran and organized the native bee booth at the Tuft&amp;rsquo;s Animal Wel&amp;
     
     <item>
       <title>Presentations</title>
-      <link>http://nataliezoekerr.com/profdev/presentations/</link>
+      <link>/profdev/presentations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nataliezoekerr.com/profdev/presentations/</guid>
+      <guid>/profdev/presentations/</guid>
       <description>Kerr, Natalie Z. and Crone, Elizabeth E. (2018) Will climate change trigger a developmental trap for a native multivoltine butterfly (Pieris oleracea)? 2018 ESA, ESC and ESBC Joint Annual Meeting, Vancouver, BC. Nov 11-14. (Presentation)
 Kerr, Natalie. Z., Crone, Elizabeth E., and Williams, Neal M. (2017) Size-based tradeoffs among workers in bumblebee (Bombus vosnesenskii) colonies. 2017 Annual Meeting of the Ecological Society of America, Portland, OR. Aug 8-11. (Presentation)</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>http://nataliezoekerr.com/pubs/</link>
+      <link>/pubs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nataliezoekerr.com/pubs/</guid>
+      <guid>/pubs/</guid>
       <description>In press Kerr, Natalie Z., Crone, Elizabeth E., and Williams, Neal M. (2019) Integrating vital rates explains optimal worker size for resource return by bumble bee workers. Functional Ecology, 33(3):467-478. [Link here]
 Kerr, Natalie Z., Baxter, Peter W.J, Salguero-Gomez, Roberto, Wardle, Glenda M., and Buckley, Yvonne M. (2016) Prioritizing management actions for invasive populations using cost, efficacy, demography and expert opinion for 14 plant species world-wide. Journal of Applied Ecology, 53:305-316.</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>http://nataliezoekerr.com/research/</link>
+      <link>/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nataliezoekerr.com/research/</guid>
+      <guid>/research/</guid>
       <description>I&amp;rsquo;m a population ecologist that uses empirical and theoretical approaches to explore trade-offs, life history phenomena, and population dynamics of plants, insects, and social organisms. The primary focus of my research has been using novel techniques for data collection (e.g. RFID systems), data analysis (e.g. functional linear models), and model construction (e.g. voltinism models, structured population models) to investigate the effects of global change on insect and plant populations through a natural history lens.</description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>http://nataliezoekerr.com/profdev/teaching/</link>
+      <link>/profdev/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nataliezoekerr.com/profdev/teaching/</guid>
+      <guid>/profdev/teaching/</guid>
       <description>Ecological Models and Data (Instructor for recitation), Spring 2019
 I was the recitationinstructor for BIO133 Ecological Models and Data course at Tufts University. I taught students how to use program R and RMardown to run the statistical and ecological models learned in lecture.
 Biostatistics (Instructor for recitation), Fall 2017
@@ -84,10 +84,10 @@ I redesigned and taught the recitation section for the BIO132 Biostatistics cour
     
     <item>
       <title>Workshops</title>
-      <link>http://nataliezoekerr.com/profdev/workshops/</link>
+      <link>/profdev/workshops/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nataliezoekerr.com/profdev/workshops/</guid>
+      <guid>/profdev/workshops/</guid>
       <description>Workshop EntSoc (Volunteer)
 I volunteered to help with a R workshop called &amp;ldquo;Exploiting the Dynamism of R Software to Help Entomologists Adapt to a Changing World: Crossing the Border from R Admirer to R User&amp;rdquo; at 2018 EntSoc conference in Vancouver, BC. This workshop was run by Robert Zinna and Keaton Wilson.
 Delta Method and Parametric Bootstrapping, March 2018

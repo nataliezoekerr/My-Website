@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="{{ .Page.Language | default "en" }}">
+  {{ partial "head" . }}
+  
+   <head>
+  <style> 
+  h2{
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+  }
+  h3{
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+  }
+  </style>
+  </head>
+  
+  <body>
+    {{ partial "site-header" . }}
+    <div id="wrapper">
+      {{ partial "site-intro" . }}
+      <main id="site-main">
+        <article class="post">
+          <header>
+            <div class="title">
+              {{ if $.Scratch.Get "h3" }}
+                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                {{ $.Scratch.Set "h3" false }}
+              {{ else }}
+                <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+              {{ end }}
+              {{ with .Description }}<p>{{ . }}</p>{{ end }}
+            </div>
+          </header>
+            <div id="content">
+              {{ .Content }}
+              <div class="contact-container">
+                {{ if .Params.netlify }}
+                  <form name="contact" action="thank-you" netlify center width="300px">
+                {{ else }}
+                  <form id="contact" action="//{{ .Params.emailService }}" method="post" center width="300px">
+                {{ end }}
+                <br />
+				<br />
+                <fieldset>
+                  <input placeholder="{{ with .Params.placeholderName }}{{ . }}{{ else }}Name{{ end }}" type="text" name="name" tabindex="1" required autofocus>
+                </fieldset>
+                <fieldset>
+                  <input placeholder="{{ with .Params.placeholderEmail }}{{ . }}{{ else }}Email{{ end }}" type="email" name="_replyto" tabindex="2" required>
+                </fieldset>
+                <fieldset>
+                  <input placeholder="{{ with .Params.placeholderSubject }}{{ . }}{{ else }}Subject{{ end }}" type="text" name="_subject" tabindex="3" required>
+                </fieldset>
+                <fieldset>
+                  <textarea placeholder="{{ with .Params.placeholderMessage }}{{ . }}{{ else }}Message{{ end }}" name="message" tabindex="4" required></textarea>
+                </fieldset>
+                <fieldset>
+                  <input type="hidden" name="_language" value="{{ .Params.placeholderLang }}">
+                </fieldset>
+                <fieldset>
+                  <button name="submit" class="button" type="submit" id="contact-submit" tabindex="5">{{ i18n "submit" }}</button> 
+                </fieldset>
+						
+				<br />
+				<p> If you do not hear from me within 48 hours, please do not hesitate to reach out again. You can also directly reach me at nataliezoekerr [at] gmail [dot] com. </p>
+				<br />
+              
+			  </form>
+            </div>
+          </div>
+        </article>
+      </main>
+    </div>
+  </body>
+</html>

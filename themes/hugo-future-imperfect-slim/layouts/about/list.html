@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="{{ .Page.Language | default "en" }}">
+  {{ partial "head" . }}
+  
+  <head>
+  <style> 
+  h2{
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+  }
+  h3{
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+  }
+  </style>
+  </head>
+  
+  <body>
+    {{ partial "site-header" . }}
+    <div id="wrapper">
+      {{ partial "site-intro" . }}
+      <main id="site-main">
+        <article class="post">
+          <header>
+            <div class="title">
+              {{ if $.Scratch.Get "h3" }}
+                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                {{ $.Scratch.Set "h3" false }}
+              {{ else }}
+                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+              {{ end }}
+              {{ with .Description }}<p>{{ . }}</p>{{ end }}
+            </div>
+          </header>
+          <div id="content">
+            {{ .Content }}
+          </div>
+        </article>
+    </div>
+  </body>
+</html>
