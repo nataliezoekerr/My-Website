@@ -5,7 +5,7 @@ title: Professional development
 
 ### [Teaching](/profdev/teaching)
 
-<img src="/img/Lecture.jpg" style="width:50%; border:2px solid"><br>
+<a href="/profdev/teaching"><img src="/img/Lecture.jpg" style="width:50%; border:2px solid"><br>
 
 <br> 
 
