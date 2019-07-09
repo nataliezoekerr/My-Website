@@ -5,7 +5,7 @@ title: Publications
 
 ### <u>In press</u>
 
-**Kerr, Natalie Z.**, Crone, Elizabeth E., and Williams, Neal M. (2019) Integrating vital rates explains optimal worker size for resource return by bumble bee workers. Functional Ecology, 33(3):467-478. [<span style="color:blue">[Link here](https://doi.org/10.1111/1365-2435.13251)</span>]
+**Kerr, Natalie Z. Kerr**, Crone, Elizabeth E., and Williams, Neal M. (2019) Integrating vital rates explains optimal worker size for resource return by bumble bee workers. Functional Ecology, 33(3):467-478. [<span style="color:blue">[Link here](https://doi.org/10.1111/1365-2435.13251)</span>]
 
 **Kerr, Natalie Z.**, Baxter, Peter W.J, Salguero-Gomez, Roberto, Wardle, Glenda M., and Buckley, Yvonne M. (2016) Prioritizing management actions for invasive populations using cost, efficacy, demography and expert opinion for 14 plant species world-wide. Journal of Applied Ecology, 53:305-316. [<span style="color:blue">[Link here](https://doi.org/10.1111/1365-2664.12592)</span>]   
 
