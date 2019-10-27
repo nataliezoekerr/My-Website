@@ -15,7 +15,7 @@ Ramula, Satu, **Kerr, Natalie Z.**, and Crone, Elizabeth E. (2019) Using statist
 
 <br>
 
-### <u>In review</u> 
+### <u> In review</u> 
 
 **Kerr, Natalie Z.**, Crone, Elizabeth E., and Chew, Frances S. (in review) Life history trade-offs are more pronounced for native butterfly species compared to invasive congener (Pieris spp.). 
 
