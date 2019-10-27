@@ -1,9 +1,8 @@
 ---
 title: Publications
 ---
-<br>
 
-### <u>In press</u>
+<br>
 
 Ramula, Satu, **Kerr, Natalie Z.**, and Crone, Elizabeth E. (2019) Using statistics to design and estimate vital rates in matrix population models for a perennial herb. Population Ecology, 1-11. [<span style="color:blue">[Link here](https://esj-journals.onlinelibrary.wiley.com/doi/full/10.1002/1438-390X.12024)</span>]
 
