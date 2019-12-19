@@ -1,3 +1,5 @@
 ---
 site: blogdown:::blogdown_site
 ---
+ 
+ <meta name="description" content="Population ecologist (Postdoctoral researcher, Duke University)">
