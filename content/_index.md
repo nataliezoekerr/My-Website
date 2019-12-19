@@ -1,6 +1,9 @@
 ---
 title: About
 ---
+
+<meta name="description" content="{{ .Description }}">
+
 <br>
 I'm a population ecologist interested in life history evolution and population dynamics of plants, insects, and organisms with complex social structures. Currently, I am a postdoctoral researcher in the <span style="color:blue">[Morris lab](https://biology.duke.edu/people/william-f-morris)</span> at Duke University. My research is focused on building  spatially-explicit individual-based models to evaluate the effects of fire on meta-population dynamics of Venus flytraps, *Dionaea muscipula*. 
 
