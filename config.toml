@@ -1,4 +1,4 @@
-baseURL                 = "http://nataliezoekerr.com/"
+baseURL                 = "http://nataliezoekerr.git.io/"
 DefaultContentLanguage  = "en"
 title                   = "Natalie Z. Kerr"
 theme                   = "hugo-future-imperfect-slim"
