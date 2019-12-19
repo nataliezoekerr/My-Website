@@ -1,6 +1,10 @@
 ---
 title: Professional development
+description: "Population ecologist (Postdoctoral researcher, Duke University)"
 ---
+
+<meta name="description" content="Population ecologist (Postdoctoral researcher, Duke University)">
+
 <br>
 
 ### [Teaching](/profdev/teaching)
