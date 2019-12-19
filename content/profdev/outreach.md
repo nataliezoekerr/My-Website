@@ -32,8 +32,11 @@ I volunteered for a PhD candidate, now <span style="color:blue">[Dr. Robert Maso
 
   
 <br>
+<br>
+<br>
   
 **Idalia National Park, 2008-2012**  
+
 I was a volunteer member of Idalia Recovery Organisation of Students (iROOS) at the University of Queensland for four years. This non-profit student organization held fundraising events to raise money for students to help with conservation work at Idalia National Park in central QLD, Australia.  
   
 <img src="/img/iROOS_snake.jpg" style="float: left; border:2px solid; height: 16em; margin-right: -0.25%; margin-bottom: 2em;">
