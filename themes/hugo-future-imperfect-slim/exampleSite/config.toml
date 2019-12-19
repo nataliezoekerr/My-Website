@@ -31,7 +31,7 @@ disableLanguages        = [""]
 
   [params.meta]
     # Sets the meta tag description
-    description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
+    description         = ""
     # Sets the meta tag author
     author              = "HTML5UP and Hugo"
     # If you would like to add more comprehensive favicon support passed root
