@@ -20,9 +20,8 @@ In my spare time, you can often find me gardening - both indoor and outdoor gard
 
 
 ### EDUCATION  
-
-**PhD in Biology, 2019**   
 <img src="/img/portrait3.jpg" style="width:35%; border:2px solid; margin-left: 20px" align="right">
+**PhD in Biology, 2019**   
 Tufts University, Medford, MA United States   
 
 <p style="margin-left: 25px; line-height: 1.3; text-align:left" > Thesis: Insect life history strategies in a changing world: the importance of integrating vital rates when evaluating life history trade-offs (<span style="color:blue">[thesis link](https://search.proquest.com/openview/d9017c9dd1fa574fba68e940d6bb526f/1?pq-origsite=gscholar&cbl=18750&diss=y)</span>). <br> Advisor:  <span style="color:blue">[Prof. Elizabeth Crone](http://ase.tufts.edu/biology/faculty/crone/)</span>. <p/>
