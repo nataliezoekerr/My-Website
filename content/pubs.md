@@ -9,12 +9,8 @@ header-includes:
 
 **Kerr, Natalie Z.**, Wepprich, Tyson, Grevstad, Fritzi S., Dopman, Erik B., Chew, Frances S., and Crone, Elizabeth E. (2019) Developmental trap or demographic bonanza? Opposing consequences of earlier phenology in a changing climate for a multivoltine butterfly. *Global Change Biology* [<span style="color:blue">[Link here](https://onlinelibrary.wiley.com/doi/10.1111/gcb.14959)</span>]
 
-<br> 
-
 **Kerr, Natalie Z.**, Crone, Elizabeth E., and Chew, Frances S. (2019) Life history trade-offs are more pronounced for native butterfly species compared to invasive congener (Pieris spp.). *Population Ecology*, 1- 15. [<span style="color:blue">[Link here](https://esj-journals.onlinelibrary.wiley.com/doi/full/10.1002/1438-390X.12035)</span>]
-
-<br> 
-
+  
 Iles, David T., Pugesek, Genevieve, **Kerr, Natalie Z.**, Dorian, Nicholas, N., and Crone, Elizabeth E. (2019). Accounting for imperfect detection in studies of sessile life cycle stages: a case study of bumble bee colonies. *J Insect Conserv*, 23:945-955 [<span style="color:blue">[Link here](https://link.springer.com/article/10.1007/s10841-019-00179-1)</span>]   
 
 <br> 
