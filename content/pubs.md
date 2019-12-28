@@ -1,5 +1,6 @@
 ---
 title: Publications
+spacing: single
 ---
 <br>
 
