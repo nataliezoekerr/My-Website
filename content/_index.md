@@ -13,7 +13,7 @@ In 2012, I graduated from the University of Queensland with a bachelor of Enviro
 In 2019, I completed my PhD in the <span style="color:blue">[Crone Lab](http://ase.tufts.edu/biology/labs/crone/)</span> at Tufts University. My PhD research involved using population models to evaluate life history strategies and trade-offs in insects. More specifically, I investigated the contribution of worker size variation in bumble bee, *Bombus vosnesenskii*, colonies and how this variation contributes toward colony growth. I also investigated the demographic consequences of shifting phenology of the mustard white butterfly in response to a warming climate. 
 
 
-In my spare time, you can often find me gardening - both indoor and outdoor gardening. I love creating and designing native pollinator-friendly gardens for my family and friends. If I'm not gardening, I will be social dancing. My first love is Brazilian zouk, and my second love is fusion dancing. 
+In my spare time, you can often find me gardening - both indoor and outdoor gardening. I love creating and designing native pollinator-friendly gardens for my family and friends. If I'm not gardening, I will be dancing Brazilian zouk. 
 
 <br>
 
