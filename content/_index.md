@@ -18,9 +18,9 @@ In my spare time, you can often find me gardening - both indoor and outdoor gard
 <br>
 
 
-
-### EDUCATION  
 <img src="/img/portrait3.jpg" style="width:35%; border:2px solid; margin-left: 20px" align="right">
+### EDUCATION  
+
 **PhD in Biology, 2019**   
 Tufts University, Medford, MA United States   
 
