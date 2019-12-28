@@ -1,6 +1,9 @@
 ---
 title: Publications
 spacing: single
+header-includes:
+   - \usepackage{paralist}
+   - \let\itemize\compactitem
 ---
 <br>
 

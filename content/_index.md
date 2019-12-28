@@ -1,5 +1,6 @@
 ---
 title: About
+meta description: "Population ecologist (Postdoctoral researcher, Duke University)"
 ---
 
 <meta name="description" content="Population ecologist (Postdoctoral researcher, Duke University)">
