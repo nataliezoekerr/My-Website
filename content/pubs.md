@@ -5,9 +5,8 @@ header-includes:
    - \usepackage{paralist}
    - \let\itemize\compactitem
 ---
-<br>
 
-\setlength{\leftskip}{2cm}
+<br>
 
 **Kerr, Natalie Z.**, Wepprich, Tyson, Grevstad, Fritzi S., Dopman, Erik B., Chew, Frances S., and Crone, Elizabeth E. (2019) Developmental trap or demographic bonanza? Opposing consequences of earlier phenology in a changing climate for a multivoltine butterfly. *Global Change Biology* [<span style="color:blue">[Link here](https://onlinelibrary.wiley.com/doi/10.1111/gcb.14959)</span>]
 
@@ -33,7 +32,6 @@ Ramula, Satu, **Kerr, Natalie Z.**, and Crone, Elizabeth E. (in review) Stochast
 
 **Kerr, Natalie Z.**, Williams, Neal M., and Crone, Elizabeth E. (in prep) Optimal life history strategies in a eusocial insect: the contribution of worker size polymorphism during colony establishment and growth phases in bumblebee colonies.
 
-\setlength{\leftskip}{0pt}
 
 <br>
 
