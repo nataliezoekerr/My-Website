@@ -33,6 +33,7 @@ Ramula, Satu, **Kerr, Natalie Z.**, and Crone, Elizabeth E. (in review) Stochast
 
 **Kerr, Natalie Z.**, Williams, Neal M., and Crone, Elizabeth E. (in prep) Optimal life history strategies in a eusocial insect: the contribution of worker size polymorphism during colony establishment and growth phases in bumblebee colonies.
 
+**Kerr, Natalie Z.**, Louthan, Allison, Walters, Jeff, and Morris, William F. (in prep) Drivers of sociality and its consequences on the reproductive success in a cooperative breeding red-cockaded woodpecker.
 
 <br>
 
