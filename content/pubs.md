@@ -6,7 +6,6 @@ header-includes:
    - \let\itemize\compactitem
 ---
 
-<br>
 
 **Kerr, Natalie Z.**, Malfi, Rosemary L., Williams, Neal M., and Crone, Elizabeth E. (2020) Bumblebee worker body size affects new worker production in different resource environments. *bioRxiv*, 2020.01.16.909135 [<span style="color:blue">[Link here](https://www.biorxiv.org/content/10.1101/2020.01.16.909135v1)</span>]
 
