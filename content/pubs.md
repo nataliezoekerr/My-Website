@@ -31,7 +31,7 @@ Iles, David T., Pugesek, Genevieve, **Kerr, Natalie Z.**, Dorian, Nicholas, N., 
 
 Ramula, Satu, **Kerr, Natalie Z.**, and Crone, Elizabeth E. (in review) Stochastic population dynamics and temporal autocorrelation: insights from a 27-year study of a long-lived plant.  
 
-**Kerr, Natalie Z.**, Williams, Neal M., and Crone, Elizabeth E. (in prep) Transient dynamics of bumblebee colony growth and optimal size distributions.
+**Kerr, Natalie Z.**, Williams, Neal M., and Crone, Elizabeth E. (in prep) Transient dynamics of bumblebee colony growth and optimal size distributions. 
 
 **Kerr, Natalie Z.**, Louthan, Allison, Walters, Jeff, and Morris, William F. (in prep) Drivers of sociality and its consequences on the reproductive success in a cooperative breeding red-cockaded woodpecker.
 
