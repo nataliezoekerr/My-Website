@@ -14,7 +14,7 @@ header-includes:
 
 **Kerr, Natalie Z.**, Crone, Elizabeth E., and Chew, Frances S. (2020) Life history trade-offs are more pronounced for native butterfly species compared to invasive congener (Pieris spp.). *Population Ecology*, 62:119-133. [<span style="color:blue">[Link here](https://esj-journals.onlinelibrary.wiley.com/doi/full/10.1002/1438-390X.12035)</span>]
 
-Ramula, Satu, **Kerr, Natalie Z.**, and Crone, Elizabeth E. (2020) Using statistics to design and estimate vital rates in matrix population models for a perennial herb. *Population Ecology*, 62:53-63. [<span style="color:blue">[Link here](https://esj-journals.onlinelibrary.wiley.com/doi/full/10.1002/1438-390X.12024)</span>]
+Ramula, Satu, **Kerr, Natalie Z.**, and Crone, Elizabeth E. (2019) Using statistics to design and estimate vital rates in matrix population models for a perennial herb. *Population Ecology*, 62:53-63. [<span style="color:blue">[Link here](https://esj-journals.onlinelibrary.wiley.com/doi/full/10.1002/1438-390X.12024)</span>]
   
 Iles, David T., Pugesek, Genevieve, **Kerr, Natalie Z.**, Dorian, Nicholas, N., and Crone, Elizabeth E. (2019). Accounting for imperfect detection in studies of sessile life cycle stages: a case study of bumble bee colonies. *J Insect Conserv*, 23:945-955. [<span style="color:blue">[Link here](https://link.springer.com/article/10.1007/s10841-019-00179-1)</span>]   
 
