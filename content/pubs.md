@@ -24,7 +24,7 @@ Iles, David T., Pugesek, Genevieve, **Kerr, Natalie Z.**, Dorian, Nicholas, N., 
 
 **Kerr, Natalie Z.**, Baxter, Peter W.J., and Buckley, Yvonne, M. (2012) Management recommendations for invasive Scotch broom (*Cytisus scoparius* L.) in Australia and USA depend on invasion stage, demographic targets and management cost. *18th Australasian Weeds Conference*, Melbourne, Victoria, Australia.  
 
-
+<br>
 ### <u> In prep </u> 
 
 Ramula, Satu, **Kerr, Natalie Z.**, and Crone, Elizabeth E. (in review) Stochastic population dynamics and temporal autocorrelation: insights from a 27-year study of a long-lived plant.  
