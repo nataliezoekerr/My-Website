@@ -6,7 +6,7 @@ header-includes:
    - \let\itemize\compactitem
 ---
 
-
+<br> 
 **Kerr, Natalie Z.**, Malfi, Rosemary L., Williams, Neal M., and Crone, Elizabeth E. (2020) Bumblebee worker body size affects new worker production in different resource environments. *bioRxiv*, 2020.01.16.909135 [<span style="color:blue">[Link here](https://www.biorxiv.org/content/10.1101/2020.01.16.909135v1)</span>]
 
 **Kerr, Natalie Z.**, Wepprich, Tyson, Grevstad, Fritzi S., Dopman, Erik B., Chew, Frances S., and Crone, Elizabeth E. (2020) Developmental trap or demographic bonanza? Opposing consequences of earlier phenology in a changing climate for a multivoltine butterfly. *Global Change Biology*, 00:1-14. [<span style="color:blue">[Link here](https://onlinelibrary.wiley.com/doi/10.1111/gcb.14959)</span>]
