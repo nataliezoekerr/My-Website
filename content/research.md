@@ -4,7 +4,6 @@ meta description: "Population ecologist (Postdoctoral researcher, Duke Universit
 ---
 
 <meta name="description" content="Population ecologist (Postdoctoral researcher, Duke University)">
-
 I'm a population ecologist that uses empirical and theoretical approaches to explore trade-offs, life history phenomena, and population dynamics of plants, insects, and social organisms. The primary focus of my research has been using novel techniques for data collection (e.g., RFID systems), data analysis (e.g., functional linear models), and model construction (e.g., voltinism models, structured population models) to investigate the effects of global change on insect and plant populations through a natural history lens. My research spans three areas: life history evolution, comparative demography, and global change biology.
 
 
