@@ -3,6 +3,8 @@ title: Presentations
 ---
 <br>
 
+## Conferences
+
 **Kerr, Natalie Z.** and Crone, Elizabeth E. (2018) Will climate change trigger a developmental
 trap for a native multivoltine butterfly (*Pieris oleracea*)? 2018 ESA, ESC and ESBC Joint Annual Meeting, Vancouver, BC. Nov 11-14. (Presentation)
 
@@ -15,3 +17,10 @@ trap for a native multivoltine butterfly (*Pieris oleracea*)? 2018 ESA, ESC and 
 **Kerr, Natalie Z.**, Baxter, Peter W.J., and Buckley, Yvonne, M. (2012) Management recommendations for invasive Scotch broom (*Cytisus scoparius* L.) in Australia and USA depend on invasion stage, demographic targets and management cost. 18th Australasian Weeds Conference, Melbourne, Australia Oct 7-11. (Poster)
 
 **Kerr, Natalie Z.**, Baxter, Peter W.J. and Buckley, Yvonne, M. (2011) Cost-efficient management of Corsican Pine (Pinus nigra subsp. laricio) on Mt Barker, New Zealand. Inaugural Conference for the Centre of Excellence for Environmental Decisions (CEED), University of Melbourne, Australia. 30 Nov-1 Dec. (Talk)
+
+
+## Department talks
+
+**Kerr, Natalie Z.** (2019) The butterflies and the bees: evaluating insect life history trade-offs in a changing world. *Ecology Seminar Series*, Duke University, Durham NC
+
+
