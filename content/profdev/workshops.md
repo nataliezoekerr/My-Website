@@ -3,7 +3,12 @@ title: Workshops
 ---
 <br>
 
-**Workshop EntSoc (Volunteer)**
+**2020 EntSoc R Webinar series, Oct 2020**
+
+With [Dr. Brian Lovett](https://www.lovettbr.com/), we organized and ran a two-part R Webinar series as part of the Early Careers Professionals initiative from the Entomological Society of America. The first session was focused on laying a foundation for programming in R. The second workshop was an introduction to implementing frequentist models and model selection techniques in program R. 
+
+
+**Workshop EntSoc (Volunteer), Nov 2018**
 
 I volunteered to help with a R workshop called "Exploiting the Dynamism of R Software to Help
 Entomologists Adapt to a Changing World: Crossing the Border from R Admirer to R User" at 2018 EntSoc conference in Vancouver, BC. This workshop was run by <span style="color:blue">[Robert Zinna](https://www.mhu.edu/staff/zinna-robert/)</span> and <span style="color:blue">[Keaton Wilson](http://keatonwilson.net/)</span>. 
