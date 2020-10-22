@@ -3,11 +3,10 @@ title: Workshops
 ---
 <br>
 
-**2020 EntSoc R Webinar series, Oct 2020**
+<img src="/img/Intro to Frequentist Models_opening&closing.jpg" style="width:35%; border:2px solid; margin-left: 20px; margin-top: 8px" align="right"> **2020 EntSoc R Webinar series, Oct 2020**
 
 With <span style="color:blue">[Brian Lovett](https://www.lovettbr.com/)</span>, we organized and ran a two-part R Webinar series as part of the Early Careers Professionals initiative from the Entomological Society of America. The first session was focused on laying a foundation for programming in R. The second workshop was an introduction to implementing frequentist models and model selection techniques in program R. 
 
-<img src="/img/Intro to Frequentist Models_opening&closing.jpg" style="width:35%; border:2px solid; margin-left: 20px; margin-top: 8px" align="right">
 
 **Workshop EntSoc (Volunteer), Nov 2018**
 
