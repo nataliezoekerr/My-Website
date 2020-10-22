@@ -3,7 +3,7 @@ title: "Outreach & Volunteering"
 ---
 <br>
 
-### <u>Public Outreach</u>  
+### <u>Public Outreach & Volunteer Work </u>  
 
 **Darwin Day at the NC Museum of Natural Sciences, Nov 2019**
 I ran and organized the "How Do Scientists Study Plant Populations?" exhibit at the North Carolina Museum of Natural Sciences Darwin Day event with Melina Keighron. Our exhibit showcased activities on how to collect data on the native venus flytrap as well as posters showing the various research on plants that occurs across the United States from Hawaii to Alaska to North Carolina from researchers in the Morris Lab at Duke University.  
@@ -19,11 +19,6 @@ I was a judge of student's posters at the Science and Engineering Fair at Somerv
 
 **Earth Day fair, April 2014**  
 I both ran and organized the native bee booth at the Earth Fair with Tufts graduate student, <span style="color:blue">[Nick Dorian](https://nicholasdorian.weebly.com/)</span>. I provided information on their biology, reasons for declines, and ways to help native bees.   
-
-
-<br>
-
-### <u>Volunteer work</u>  
 
 **Heron Island Research Station, Sept-Nov 2013**  
 I volunteered for a PhD candidate, now <span style="color:blue">[Dr. Robert Mason](https://www.marinespatialecologylab.org/robert-mason)</span>, with his project on the physiological stress of different light levels and elevated temperature on coral. Using these data with satellite remote sensing, his project aimed to predict coral reefs susceptibility to coral bleaching.  
