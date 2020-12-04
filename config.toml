@@ -113,11 +113,13 @@ defaultContentLanguageInSubdir = false
     
   [[menu.main]]
     name              = "Research"
+    identifier        = "research"
     url               = "/research/"
     weight            = 2
 
    [[menu.main]]
     name              = "Publications"
+    identifier        = "pubs"
     url               = "/pubs/"
     weight            = 3
   
