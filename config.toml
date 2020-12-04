@@ -1,19 +1,26 @@
-baseURL                 = "http://nataliezoekerr.com/"
+baseurl                 = "http://nataliezoekerr.com/"
 DefaultContentLanguage  = "en"
 title                   = "Natalie Z. Kerr"
 theme                   = "hugo-future-imperfect-slim"
-enableEmoji             = true
 ignoreFiles             = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-preserveTaxonomyNames   = false
+enableEmoji             = true
 paginate                = 5
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
-disableLanguages        = [""]
+disableLanguages        = []
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
+
+[markup.goldmark.renderer]
+  unsafe                = true
+
+[outputs]
+  home                  = ["html", "json", "rss"]
+
+
 
 #Rules for generating permanent links.
 [permalinks]
@@ -21,13 +28,10 @@ defaultContentLanguageInSubdir = false
 
 
 [params]
-  # Loads CSS and JavaScript files. The variable is an array so that you can load
-  # multiple/additional files if necessary. The standard theme files can be loaded
-  # by adding the value, "default". Default includes the add-on.css and and-on.js.
-  # Example: ["default", "/path/to/file"]
+  enableCDN             = false
   cssFiles              = ["default"]
   jsFiles               = ["default"]
-  # Sets options for highlight.js
+
   highlightjs           = true
   highlightjsTheme      = "github"
   highlightjsLang       = ["html", "css", "js", "toml"]
@@ -37,7 +41,8 @@ defaultContentLanguageInSubdir = false
   # Options are twitter, facebook, reddit, linkedin, stumbleupon, pinterest, email
   socialShare           = ["twitter", "facebook", "reddit", "linkedin",
                           "stumbleupon", "pinterest", "email"]
-
+  hideEmptyStats        = false
+  
   [params.meta]
     # Sets the meta tag description
     description         = "Population Ecologist (Postdoctoral researcher, Duke University)"
@@ -57,9 +62,9 @@ defaultContentLanguageInSubdir = false
     # Sets the navbarTitle that appears in the top left of the navigation bar
     navbarTitle         = "Natalie Zoe Kerr"
     # Sets navbarTitle to match the section of the website
-    dynamicTitles       = false
+    dynamicTitles       = true
     searchMenu          = true
-    shareMenu           = false
+    shareMenu           = true
     languageMenu        = false
 
   # These are optional params related to the sidebar. They are recommended, but not
@@ -68,9 +73,10 @@ defaultContentLanguageInSubdir = false
     header                = "Natalie Zoe Kerr" 
     subheader             = "BEnvSc, PhD <br/>"
     paragraph             = "Postdoctoral researcher <br /> Duke University <br />"
-    rssIntro              = false
+    rssIntro              = true
     socialIntro           = true
-    
+    hideWhenSingleColumn  = false
+    alwaysOnHomepage      = false 
     
     # This appears at the top of the sidebar above params.intro.header.
     # A width of less than 100px is recommended from a design perspective.
